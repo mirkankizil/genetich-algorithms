@@ -1,0 +1,14 @@
+C:\Users\this\source\repos\yapayZeka\yapayZeka\bin\Debug\yapayZeka.exe.config
+C:\Users\this\source\repos\yapayZeka\yapayZeka\bin\Debug\yapayZeka.exe
+C:\Users\this\source\repos\yapayZeka\yapayZeka\bin\Debug\yapayZeka.pdb
+C:\Users\this\source\repos\yapayZeka\yapayZeka\obj\Debug\yapayZeka.csproj.CoreCompileInputs.cache
+C:\Users\this\source\repos\yapayZeka\yapayZeka\obj\Debug\yapayZeka.exe
+C:\Users\this\source\repos\yapayZeka\yapayZeka\obj\Debug\yapayZeka.pdb
+C:\Users\this\source\repos\yapayZeka\yapayZeka\obj\Debug\yapayZeka.csprojAssemblyReference.cache
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\obj\Debug\yapayZeka.csprojAssemblyReference.cache
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\obj\Debug\yapayZeka.csproj.CoreCompileInputs.cache
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\obj\Debug\yapayZeka.exe
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\obj\Debug\yapayZeka.pdb
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\bin\Debug\yapayZeka.exe.config
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\bin\Debug\yapayZeka.exe
+C:\Users\felixCulpa\Desktop\yapayZeka\yapayZeka\bin\Debug\yapayZeka.pdb
